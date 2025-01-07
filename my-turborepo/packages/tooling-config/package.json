@@ -1,4 +1,7 @@
 {
   "name": "tooling-config",
-  "description": "A package used by every other package."
+  "description": "A package used by every other package.",
+  "scripts": {
+    "build": "echo hello"
+  }
 }
